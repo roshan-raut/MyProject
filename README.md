@@ -16,7 +16,7 @@ for stopping it run below command
     $docker-compose down
 
 ### Testing of Apllication
-To check whether our application is running or not you can go to the below url and you can upload the csv file there.
+To check whether our application is running or not you can go to the below url and you can upload the csv file, you can use the sample csv file provided in project customers.csv
 
     http://localhost:9090/
    
